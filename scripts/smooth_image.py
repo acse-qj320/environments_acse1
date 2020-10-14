@@ -15,4 +15,3 @@ plt.imshow(image)
 f.add_subplot(1, 2, 2)
 plt.imshow(smoothed_image)
 plt.show(block=True)
-
